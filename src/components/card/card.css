@@ -1,0 +1,17 @@
+.card {
+   box-sizing: border-box;
+   padding: 20px;
+   background: #fff;
+   color: #495057;
+   border-radius: 4px;
+   box-shadow: 0 10px 12px 0 rgba(0, 0, 0, 0.2);
+   cursor: pointer;
+}
+.card:hover {
+   box-shadow: 0 14px 14px 0 rgba(0, 0, 0, 0.4);
+}
+.card-body {
+   background: #fff;
+   color: #495057;
+   border-radius: 4px;
+}
